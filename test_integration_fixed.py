@@ -1,9 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Test script for the new API-based chatbot integration.
-Tests all 4 backend APIs and chatbot functionality.
-"""
+
 
 import requests
 import json

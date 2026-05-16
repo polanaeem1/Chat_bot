@@ -1,6 +1,7 @@
 import requests
 import difflib
 
+
 BASE_URL = "https://donald-deadliest-jayla.ngrok-free.dev/api"
 
 # Fetch garages

@@ -4,6 +4,7 @@ import subprocess
 import sys
 import threading
 
+
 def run_server():
     # Start the Flask app in a separate process
     subprocess.run([sys.executable, "flask_app.py"], check=True)

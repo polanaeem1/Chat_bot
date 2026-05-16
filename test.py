@@ -10,6 +10,7 @@ import math
 from datetime import datetime, timedelta
 from typing import Optional, Tuple, List, Dict
 
+
 # -----------------------------
 # Configure logging
 # -----------------------------

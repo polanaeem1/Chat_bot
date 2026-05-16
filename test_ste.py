@@ -2,7 +2,6 @@ from datetime import time
 import logging
 import requests
 def create_booking_api(payload: dict):
-    """Create a booking via API 2."""
     max_retries = 2  # Fewer retries for booking to avoid duplicate bookings
     retry_delay = 1
     

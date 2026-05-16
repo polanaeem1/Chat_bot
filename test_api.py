@@ -2,7 +2,6 @@ import json
 from datetime import datetime, timedelta
 import requests
 
-# تاريخ في المستقبل
 future_start = (datetime.utcnow() + timedelta(hours=2)).isoformat()
 future_end = (datetime.utcnow() + timedelta(hours=3)).isoformat()
 

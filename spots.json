@@ -1,0 +1,259 @@
+[
+  {
+    "id": 101,
+    "location": "Main Street",
+    "available": false,
+    "price": 2.0,
+    "x": 0,
+    "y": 0,
+    "booked_by": "TestUser_9999"
+  },
+  {
+    "id": 102,
+    "location": "Main Street",
+    "available": true,
+    "price": 2.0,
+    "x": 10,
+    "y": 0
+  },
+  {
+    "id": 103,
+    "location": "Main Street",
+    "available": false,
+    "price": 2.0,
+    "x": 20,
+    "y": 0
+  },
+  {
+    "id": 104,
+    "location": "Main Street",
+    "available": true,
+    "price": 2.0,
+    "x": 30,
+    "y": 0
+  },
+  {
+    "id": 105,
+    "location": "Main Street",
+    "available": true,
+    "price": 2.0,
+    "x": 0,
+    "y": 10
+  },
+  {
+    "id": 106,
+    "location": "Main Street",
+    "available": true,
+    "price": 2.0,
+    "x": 10,
+    "y": 10
+  },
+  {
+    "id": 107,
+    "location": "Main Street",
+    "available": false,
+    "price": 2.0,
+    "x": 20,
+    "y": 10
+  },
+  {
+    "id": 108,
+    "location": "Main Street",
+    "available": true,
+    "price": 2.0,
+    "x": 30,
+    "y": 10
+  },
+  {
+    "id": 201,
+    "location": "Central Mall",
+    "available": true,
+    "price": 3.0,
+    "x": 100,
+    "y": 100
+  },
+  {
+    "id": 202,
+    "location": "Central Mall",
+    "available": false,
+    "price": 3.0,
+    "x": 110,
+    "y": 100
+  },
+  {
+    "id": 203,
+    "location": "Central Mall",
+    "available": true,
+    "price": 3.0,
+    "x": 120,
+    "y": 100
+  },
+  {
+    "id": 204,
+    "location": "Central Mall",
+    "available": true,
+    "price": 3.0,
+    "x": 130,
+    "y": 100
+  },
+  {
+    "id": 205,
+    "location": "Central Mall",
+    "available": true,
+    "price": 3.0,
+    "x": 100,
+    "y": 110
+  },
+  {
+    "id": 206,
+    "location": "Central Mall",
+    "available": true,
+    "price": 3.0,
+    "x": 110,
+    "y": 110
+  },
+  {
+    "id": 207,
+    "location": "Central Mall",
+    "available": false,
+    "price": 3.0,
+    "x": 120,
+    "y": 110
+  },
+  {
+    "id": 208,
+    "location": "Central Mall",
+    "available": true,
+    "price": 3.0,
+    "x": 130,
+    "y": 110
+  },
+  {
+    "id": 301,
+    "location": "5th Avenue",
+    "available": true,
+    "price": 2.5,
+    "x": 50,
+    "y": 50
+  },
+  {
+    "id": 302,
+    "location": "5th Avenue",
+    "available": true,
+    "price": 2.5,
+    "x": 55,
+    "y": 50
+  },
+  {
+    "id": 303,
+    "location": "5th Avenue",
+    "available": true,
+    "price": 2.5,
+    "x": 60,
+    "y": 50
+  },
+  {
+    "id": 304,
+    "location": "5th Avenue",
+    "available": true,
+    "price": 2.5,
+    "x": 65,
+    "y": 50
+  },
+  {
+    "id": 305,
+    "location": "5th Avenue",
+    "available": false,
+    "price": 2.5,
+    "x": 50,
+    "y": 55
+  },
+  {
+    "id": 306,
+    "location": "5th Avenue",
+    "available": true,
+    "price": 2.5,
+    "x": 55,
+    "y": 55
+  },
+  {
+    "id": 307,
+    "location": "5th Avenue",
+    "available": true,
+    "price": 2.5,
+    "x": 60,
+    "y": 55
+  },
+  {
+    "id": 308,
+    "location": "5th Avenue",
+    "available": true,
+    "price": 2.5,
+    "x": 65,
+    "y": 55
+  },
+  {
+    "id": 401,
+    "location": "Downtown",
+    "available": true,
+    "price": 4.0,
+    "x": 200,
+    "y": 200
+  },
+  {
+    "id": 402,
+    "location": "Downtown",
+    "available": true,
+    "price": 4.0,
+    "x": 205,
+    "y": 200
+  },
+  {
+    "id": 403,
+    "location": "Downtown",
+    "available": false,
+    "price": 4.0,
+    "x": 210,
+    "y": 200
+  },
+  {
+    "id": 404,
+    "location": "Downtown",
+    "available": true,
+    "price": 4.0,
+    "x": 215,
+    "y": 200
+  },
+  {
+    "id": 405,
+    "location": "Downtown",
+    "available": true,
+    "price": 4.0,
+    "x": 200,
+    "y": 205
+  },
+  {
+    "id": 406,
+    "location": "Downtown",
+    "available": true,
+    "price": 4.0,
+    "x": 205,
+    "y": 205
+  },
+  {
+    "id": 407,
+    "location": "Downtown",
+    "available": true,
+    "price": 4.0,
+    "x": 210,
+    "y": 205
+  },
+  {
+    "id": 408,
+    "location": "Downtown",
+    "available": true,
+    "price": 4.0,
+    "x": 215,
+    "y": 205
+  }
+]

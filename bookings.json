@@ -1,0 +1,11 @@
+[
+  {
+    "id": "7cbc7c81",
+    "spot_id": 102,
+    "location": "Main Street",
+    "user_id": "OtherUser",
+    "start_time": "2026-01-28T15:00:00",
+    "end_time": "2026-01-28T17:00:00",
+    "total_price": 4.0
+  }
+]

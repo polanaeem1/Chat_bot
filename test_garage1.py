@@ -1,5 +1,6 @@
 import requests
 
+
 BASE_URL = "https://donald-deadliest-jayla.ngrok-free.dev/api"
 
 print("\n" + "="*60)
